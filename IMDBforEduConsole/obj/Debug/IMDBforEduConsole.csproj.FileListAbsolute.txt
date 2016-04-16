@@ -1,0 +1,12 @@
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\bin\Debug\IMDBforEduConsole.exe.config
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\bin\Debug\IMDBforEduConsole.exe
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\bin\Debug\IMDBforEduConsole.pdb
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\bin\Debug\RestSharp.dll
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\bin\Debug\TMDbLib.dll
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\bin\Debug\RestSharp.xml
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\bin\Debug\TMDbLib.pdb
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\obj\Debug\IMDBforEduConsole.csprojResolveAssemblyReference.cache
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\obj\Debug\IMDBforEduConsole.exe
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\obj\Debug\IMDBforEduConsole.pdb
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\bin\Debug\WatTmdb.dll
+c:\users\ramit\documents\visual studio 2015\Projects\IMDBforEduConsole\IMDBforEduConsole\bin\Debug\WatTmdb.pdb
